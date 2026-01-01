@@ -1,28 +1,24 @@
-## Hi 👋 I'm Karnav T
+<h1 align="center">Hi 👋 I'm Karnav T</h1>
 
 ---
 
-### 👋 About Me:
-I am a computer science student at Georgia Tech, passionate about building scalable software, cloud infrastructure, and modern full-stack applications.
+### <h3>🎓 About Me:</h3>
+I am a computer science student at Georgia Tech, passionate about building scalable software, cloud infrastructure, and modern full-stack applications. I'm also focused on growing as a software engineer through hands-on projects, internships, and continuous learning in cloud, backend systems, and automation.
 
 ---
 
-### 🚀 What I'm Up To
+### <h3>🚀 What I'm Up To</h3>
 - ☁️ Learning cloud platforms (AWS & Azure) and DevOps fundamentals  
 - ⚙️ Building full-stack projects and improving system design skills  
 
 
-### 🎓 About Me
-I'm also focused on growing as a software engineer through hands-on projects, internships, and continuous learning in cloud, backend systems, and automation.
 
----
-
-### 🌐 Connect with me:
+### <h3>🌐 Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/karnav-trivedi)
 
 ---
 
-### 💻 Tech Stack:
+### <h3>💻 Tech Stack:</h3>
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
