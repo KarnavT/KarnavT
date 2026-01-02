@@ -14,7 +14,7 @@ I am a computer science student at Georgia Tech, passionate about building scala
 
 
 ### <h3>🌐 Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/karnav-trivedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/karnav-trivedi)
 
 ---
 
